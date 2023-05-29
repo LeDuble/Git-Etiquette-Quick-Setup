@@ -1,3 +1,3 @@
 # Git-Etiquette-Quick-Setup
 
-![quick-install-ethos-program](https://user-images.githubusercontent.com/86346590/232019370-f3b9f6d9-cf04-40b0-b7f3-2e2bf4ba02ba.png)
+![quick-install-ethos-program-latest](https://github.com/LeDuble/Git-Etiquette-Quick-Setup/assets/86346590/50060cdb-b753-4ea5-80c6-20c689ecd7d8)
